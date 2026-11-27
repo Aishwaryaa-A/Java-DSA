@@ -6,7 +6,7 @@ I'm learning Data Structures and Algorithms using Java and documenting my progre
 
 Topics Covered
 
-01. Patterns
+01. patterns
 - Star Triangle
 - Number Triangle
 - Inverted Triangle

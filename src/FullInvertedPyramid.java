@@ -1,3 +1,4 @@
+package patterns;
 public class FullInvertedPyramid {
     public static void main(String[] args){
 
